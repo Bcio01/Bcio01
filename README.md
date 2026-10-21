@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Johan Suárez — Japanese night city with cherry blossoms" width="100%" />
+<img src="./assets/banner.png" alt="Johan Suárez — Japanese night city with cherry blossoms" width="100%" />
 
 [**🇺🇸 English**](./README.md) · [**🇨🇱 Español**](./README.es.md)
 
