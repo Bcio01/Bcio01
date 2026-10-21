@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Johan Suárez — ciudad japonesa nocturna azul con flores de cerezo" width="100%" />
+<img src="./assets/banner.png" alt="Johan Suárez — ciudad japonesa nocturna azul con flores de cerezo" width="100%" />
 
 [**🇺🇸 English**](./README.md) · [**🇨🇱 Español**](./README.es.md)
 
