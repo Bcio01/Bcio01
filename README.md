@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bcio01/Bcio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.svg" alt="Johan Suárez — Japanese night city with cherry blossoms" width="100%" />
 
-Here are some ideas to get you started:
+[**🇺🇸 English**](./README.md) · [**🇨🇱 Español**](./README.es.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Computer Engineering Student · Software Development · Databases
+
+📍 Santiago, Chile · 🎯 Open to internships and junior opportunities
+
+*Building useful software, one project at a time.*
+
+</div>
+
+---
+
+### About me
+
+I'm **Johan Suárez**, a Computer Engineering student interested in **software development**, especially backend systems, databases and applications that solve real-world problems.
+
+I'm expanding my skills through academic and personal projects, looking for opportunities to learn, collaborate and grow as a developer.
+
+- 🧩 Interested in backend development, APIs and relational databases.
+- 🛠️ Learning through hands-on projects and Git version control.
+- 🌱 Continuously improving my technical skills and English.
+
+### Technologies & tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,html,git,github,visualstudio,vscode,androidstudio" alt="Technology icons" />
+
+**Other experience:** SQL Server · SQL · Power BI · Excel
+
+</div>
+
+### Selected projects
+
+| Project | Description |
+| :--- | :--- |
+| [**finance-app**](https://github.com/Bcio01/finance-app) | Personal finance desktop application. |
+| [**Gestión Agrícola**](https://github.com/Bcio01/Gestion-Agricola) | AgroTech agricultural information management project. |
+| [**DonArtec**](https://github.com/Bcio01/DonArtec) | Technology donation website. |
+| [**InfinityLive**](https://github.com/Bcio01/InfinityLive) | Gamified personal growth mobile app concept. |
+
+### Let's connect
+
+Open to collaborating on projects and exploring internship or junior developer opportunities. Feel free to browse my repositories.
+
+<div align="center"><sub>Thank you for visiting ✦</sub></div>
